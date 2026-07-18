@@ -76,4 +76,4 @@ while i == 1:
     else:
         print("Wrong choice.....")
         
-    i = int(input("Press 1 to continue, press any other key to exit: "))
+    i = int(input("Press 1 to continue, press any other key to exit: "))|
